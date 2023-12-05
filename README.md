@@ -26,7 +26,7 @@ The second diagnostic plot is called a Q-Q plot. It shows whether or not the res
 ## Scale-location plot
 The third plot shows the square root of the standardized residuals versus the fitted values. It's often called a scale-location plot. This plot shows whether the size of the residuals gets bigger or smaller compared to the fitted values.
 
-## How much do the explenatory variables impact the model?
+## How much do the explanatory variables impact the model?
 ## Leverage
 Leverage measures how unusual or extreme the explanatory variables are for each observation. Very roughly, high leverage means that the explanatory variable has values that are different from other points in the dataset. 
 
